@@ -76,5 +76,8 @@
     "android": {
       "src": "android"
     }
+  },
+  "dependencies": {
+    "raw-nfc-reader": "file:raw-nfc-reader-0.0.1.tgz"
   }
 }
